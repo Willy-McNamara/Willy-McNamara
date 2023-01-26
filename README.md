@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A v2 for my music practice app.](https://github.com/Willy-McNamara/Freequency)
 
-- 🌱 I’m currently learning **Better Auth practices, how to store and handle file types like .mp3!**
+- 🌱 I’m currently learning **Better Auth practices, how to store and handle file types like .mp3 (using AWS s3)!**
 
 - 📫 How to reach me **wmcnamara11@gmail.com**
 
