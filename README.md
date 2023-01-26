@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willy McNamara</h1>
 <h3 align="center">A full stack dev in Austin, TX working part time for Hack Reactor and building projects on the side!</h3>
 
-- 🔭 I’m currently working on [A v2 for my music practice app.](https://github.com/Willy-McNamara/Freequency) and [a fun gallery project to collab with my friend :)](https://github.com/Willy-McNamara/DazzWebsite)
+- 🔭 I’m currently working on [A v2 for my music practice app](https://github.com/Willy-McNamara/Freequency) and [a fun gallery project to collab with my friend :)](https://github.com/Willy-McNamara/DazzWebsite)
 
 - 🌱 I’m currently learning **Better Auth practices, how to store and handle file types like .mp3 (using AWS s3)!**
 
