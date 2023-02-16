@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a v2 for my music practice app](https://github.com/Willy-McNamara/Freequency) and [redoing an API build with a new stack (TS/Postgres/GraphQL)](https://github.com/Willy-McNamara/AtelierBackend)
 
-- 🌱 I’m currently learning **Better Auth practices, how to store and handle file types like .mp3 (using AWS s3)!**
+- 🌱 I’m currently learning **better Auth practices, more professional Figma use, GraphQL, and sharpened Typescript skills!**
 
 - 📫 How to reach me **wmcnamara11@gmail.com**
 
