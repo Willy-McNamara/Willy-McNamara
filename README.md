@@ -2,7 +2,7 @@
 <h3 align="center">A full stack dev in Austin, TX working part time for Hack Reactor and building projects on the side!</h3>
 
 - 🔭 I’m currently working on [a v2 for my music practice app](https://github.com/Willy-McNamara/Freequency) and [redoing an API build with a new stack (TS/Postgres/GraphQL)](https://github.com/Willy-McNamara/AtelierBackend)
-- [Leetcode practice here](https://github.com/Willy-McNamara/leetcode)
+- :technologist:[Leetcode practice here](https://github.com/Willy-McNamara/leetcode)
 
 - 🌱 I’m currently learning **better Auth practices, more professional Figma use, GraphQL, and sharpened Typescript skills!**
 
