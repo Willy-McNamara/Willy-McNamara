@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Willy McNamara</h1>
-<h3 align="center">A full stack dev in Austin, TX working part time for Hack Reactor and building projects on the side!</h3>
+<h3 align="center">A full stack dev in Salt Lake City, UT working full time at Moody's and building projects on the side!</h3>
 
-- 🔭 I’m currently working on [a v2 for my music practice app](https://github.com/Willy-McNamara/Freequency) and [redoing an API build with a new stack (TS/Postgres/GraphQL)](https://github.com/Willy-McNamara/AtelierBackend)
+- 🔭 I’m currently working on [a v3 for my music practice app](https://github.com/Willy-McNamara/Freequency)
 - :technologist: [Leetcode practice here](https://github.com/Willy-McNamara/leetcode)
 
-- 🌱 I’m currently learning **better Auth practices, more professional Figma use, GraphQL, and sharpened Typescript skills!**
+- 🌱 I’m currently learning **best practices for Disaster Recovery, and Rust**
 
 - 📫 How to reach me **wmcnamara11@gmail.com**
 
