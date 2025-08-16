@@ -2,7 +2,6 @@
 <h3 align="center">A full stack dev in Salt Lake City, UT working full time at Moody's and building projects on the side!</h3>
 
 - 🔭 I’m currently working on [a v3 for my music practice app](https://github.com/Willy-McNamara/Freequency)
-- :technologist: [Leetcode practice here](https://github.com/Willy-McNamara/leetcode)
 
 - 🌱 I’m currently learning **best practices for Disaster Recovery, and Rust**
 
